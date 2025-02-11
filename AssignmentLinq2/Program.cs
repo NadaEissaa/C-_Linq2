@@ -113,7 +113,7 @@ namespace AssignmentLinq2
             //Console.WriteLine(result); 
 
 
-            //string filePath = @"D:\course\Backend\LINQ 02\dictionary_english.txt"; 
+            //string filePath = @"C:\Users\owner\source\repos\C#_Linq2\dictionary_english.txt"; 
 
             //try
             //{
@@ -675,7 +675,7 @@ namespace AssignmentLinq2
 
 
             #region Q2
-            //string filePath = @"D:\course\Backend\LINQ 02\dictionary_english.txt";
+            //string filePath = @"C:\Users\owner\source\repos\C#_Linq2\dictionary_english.txt";
             //string[] words = File.ReadAllLines(filePath);
 
             //var result = words.Where(word => !string.IsNullOrWhiteSpace(word)) 
